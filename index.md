@@ -25,14 +25,14 @@ Download the Python 3 installer for macOS.
 I recommend choosing the Graphical Installer
 Install Python 3 using all of the defaults for installation.
 
-Workshop 1
+# Workshop 1
 
 NOTES: Build a script that goes through all files in a directory and read lines. Extract the files with words. Or count the words? Build the script slowly during the two workshops and finish with a demo. Include the libraries imported earlier??
 
 Getting Started
 https://librarycarpentry.org/lc-python-intro/01-getting-started/index.html 
 
-Use Jupyter
+## Use Jupyter
 The Anaconda package manager is an automated way to install Jupyter Notebooks..
 See the setup instructions for Anaconda installation instructions.
 Once you have installed Python, you can search your computer for the Jupyter app.
@@ -58,7 +58,7 @@ The great part of Jupyter Notebooks is that it combines different types of cells
 
 Here are some basics of Markdown language.
 
-Saving the code
+## Saving the code
 To save the code, press ‘file’ and then ‘save as’.  This saves your notebook (using the ipynb extension). This saves the notebook at your current directory in the Jupyter home page. 
 
 
@@ -67,11 +67,20 @@ If I wanted to save it on my Desktop, I would have to type Desktop/PythonWorksho
 
 
 
-Use comments to add documentation to programs.
+## Use comments to add documentation to programs.
 You can add comments to document your script, this works in Jupyter, but also wherever you are writing Python. Usually comments are used to describe what the script is doing. General documentation that might help your future-you.
-For one-line comments, use hash (#). The commented line will be ignored when you run a script.
-For multi-line comments, use three quotation marks (“””). 
-Use comments to debug
+* For one-line comments, use hash (#). The commented line will be ignored when you run a script.
+* For multi-line comments, use three quotation marks (“””). 
+* Use comments to debug
+
+  ```
+  #This is a comment
+  """
+  This is a long comment
+  Usually used when you have a multi-line comment
+  """
+  
+  ```
 
 
 
