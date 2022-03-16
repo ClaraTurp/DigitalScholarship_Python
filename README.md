@@ -1,3 +1,3 @@
 # DigitalScholarship_Python
 
-https://github.com/ClaraTurp/DigitalScholarship_Python
+https://claraturp.github.io/DigitalScholarship_Python/
